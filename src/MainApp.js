@@ -11,7 +11,6 @@ import {
 import DashBoard from "./Container/DashBoard/DashBoard";
 import { Route, Switch, Router } from "react-router-dom";
 import CategoryDetails from "./Container/DashBoard/Category/CategoryDetails";
-import Theme from "./Container/Theme/Theme";
 
 const { SubMenu } = Menu;
 
